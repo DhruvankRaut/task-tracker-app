@@ -1,0 +1,9 @@
+I want to build a modern, responsive Task Tracker application using Next.js, Tailwind CSS, and TypeScript. Please help me implement a fully functional task management dashboard inside this page.tsx file (and create any necessary components if needed).
+Core Features Required:
+Task Creation: An input form to add new tasks with a title, description, and priority level (Low, Medium, High).
+Task List & Display: View all created tasks in an organized list or board, showing their status, priority, and title/description.
+Status Management: Ability to mark tasks as completed/pending or move them across statuses.
+Deletion & Filtering: Ability to delete tasks and filter them by status (All, Active, Completed).
+Local Persistence: Save tasks to localStorage so they don't disappear on page refresh.
+Clean UI: Use Tailwind CSS for a sleek, modern, and clean user interface.
+Please write the complete, working code for this.
