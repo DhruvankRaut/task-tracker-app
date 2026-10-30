@@ -9,4 +9,6 @@ export type Task = {
   priority: Priority;
   status: TaskStatus;
   createdAt: number;
+  dueDate?: string; // FORMAT:YYYY:MM:DD
+  dueTime?: string; // FORMAT:HH:MM
 };
