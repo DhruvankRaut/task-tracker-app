@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Task Tracker",
-  description: "A local task management dashboard",
+  title: "OnTrack",
+  description: "Create tasks, set priorities, and move work from pending to done.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
